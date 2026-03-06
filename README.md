@@ -51,8 +51,8 @@ This chart shows the distribution of listings by number of bedrooms.
 
 This is important because:
 
-- The number of bedrooms affects the property purchase price
-- Larger properties often generate higher nightly rental prices
+- The number of bedrooms affects the property purchase price.
+- Larger properties often generate higher nightly rental prices.
 
 The visualization helps investors understand which property sizes are most common and potentially profitable.
 
