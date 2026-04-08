@@ -74,6 +74,8 @@ All visualizations are combined into a single interactive Tableau dashboard that
 
 The dashboard provides a data-driven overview to support Airbnb investment decisions.
 
+[![Tableau Dashboard](ProjectDone.png)](https://public.tableau.com/app/profile/bence.bodnar/viz/AirBnBFullProject_17756303935230/FinalVisualisation)
+
 
 ## Key Insights
 From the analysis:
